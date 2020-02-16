@@ -1,6 +1,6 @@
 # EMF-Ears
 
-This is my EMF Ears Gerber files
+This is my EMF Ears Gerber files.
 I've made the layout from the schematic of a Makezine article :
 
 https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields/
