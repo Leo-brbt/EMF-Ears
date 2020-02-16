@@ -14,7 +14,7 @@ To assemble the PCB you'll need :
 - 2 x 1k Ohm resistors
 - 2 x 300k Ohm resistors
 - 2 x 68k Ohm resistors
-- a stereo jack socket
+- a stereo jack socket (3F07 type one)
 - a NE5532 OPamp or similar (OPA2134, LME49720, TL072, OPA1662 etc...)
 - a stereo jack socket
 - a 9v battery socket
